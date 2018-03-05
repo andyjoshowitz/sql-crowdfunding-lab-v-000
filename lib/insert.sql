@@ -2,8 +2,8 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Summer Flights", "Travel", 635, "3/1/18", "3/31/18");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Purim Costume", "Holidays", 50, "3/1/18", "3/31/18");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Soup Kitchen", "Homeless", 250, "3/1/18", "3/31/18");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Eruv 5k", "Seniors", 100, "3/1/18", "3/31/18");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Counseling Sessions", "Domestic Violence", 65, "3/1/18", "3/31/18");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Eruv 5k", "Community", 1000, "3/1/18", "3/31/18");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("CAPS Sessions", "Mental Health", 75, "3/1/18", "3/31/18");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Wig Making", "Cancer Survivors", 1000, "2/1/17", "2/28/18");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog Harnesses", "Blind & Deaf", 500, "2/1/17", "2/28/18");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Musical Instruments", "Developmental Disabilities", 315, "2/1/17", "2/28/18");
